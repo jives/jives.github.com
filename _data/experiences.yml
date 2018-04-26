@@ -1,28 +1,46 @@
 - experience:
   role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  time: 2017 - Present
+  company: EBG MedAustron Gmbh, Wiener Neustadt, Austria
+  details: "Lead Developer (Control System Front End)<br>
+  Architecture, Design, Test and Commissioning of the MedAustron Control System<br>
+  Design, Development, Test and Commissioning of Front-End Devices (mainly LabVIEW/FPGA on PXIe)<br>
+  Support for Operation and Commissioning of the MedAustron Synchrotron Particle Accelerator"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Deputy Group Leader
+  time: 2014 - 2017
+  company: EBG MedAustron Gmbh, Wiener Neustadt, Austria
+  details: "Group Lead (deputy July 2014 - August 2016, acting group lead September 2016 - September 2017)<br>
+  Architecture, Design, Test and Commissioning of the MedAustron Control System<br>
+  Design, Development, Test and Commissioning of Front-End Devices (mainly LabVIEW/FPGA on PXIe)<br>
+  Support for Operation and Commissioning of the MedAustron Synchrotron Particle Accelerator"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
+  role: Beam Diagnostics Engineer
+  time: 2013 - 2014
   company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Systems Design (distributed measurement systems, motion systems)<br>
+  Embedded Software Design (LabVIEW/FPGA on PXI)<br>
+  Data Acquisition Systems Design<br>
+  Signal Processing and Analysis"
+- experience:
+  role: Beam Diagnostics Engineer
+  time: 2010 - 2014
+  company: CERN, Geneva, Switzerland
+  details: "Systems Design (distributed measurement systems, motion systems)<br>
+  Embedded Software Design (LabVIEW/FPGA on PXI)<br>
+  Data Acquisition Systems Design<br>
+  Signal Processing and Analysis"
+- experience:
+  role: Instrument Engineer
+  time: 2008 - 2010
+  company: RED Bernard GmbH, Vienna, Austria
+  details: "Systems Design (distributed measurement and monitoring systems)<br>
+  Software Design (measurement, monitoring and data analysis applications in LabVIEW)<br>
+  Web Application Design (PHP, MySQL, JavaScript)<br>
+  Hardware Design (analogue circuits)"
+- experience:
+  role: Instrument Engineer
+  time: 2005 - 2008
+  company: Bernard Ingenieure GmbH, Vienna, Austria
+  details: "Systems Design (distributed measurement and monitoring systems)<br>
+  Software Design (measurement, monitoring and data analysis applications in LabVIEW)"

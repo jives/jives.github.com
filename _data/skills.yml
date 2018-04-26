@@ -1,18 +1,15 @@
 - skill:
-  name: Python & Django
+  name: LabVIEW
   level: 98%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: C
+  level: 90%
 - skill:
-  name: Angular
-  level: 98%
+  name: Python
+  level: 80%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Software Engineering
+  level: 90%
 - skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Data Analysis
+  level: 80%
