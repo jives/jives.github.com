@@ -17,9 +17,7 @@ style: styles-2
 name: Anton Kerschbaum
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Coming soon.'
 
 #sidebar links
 email: hello@kerschbaum.me
