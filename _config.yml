@@ -39,5 +39,4 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
-include:
-  - ".well-known"
+include: [".well-known"]
