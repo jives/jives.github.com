@@ -1,16 +1,19 @@
 - education:
   degree: MSc in Physical Energy and Measurement Engineering
-  university: Technical University of Vienna
-  time: 2017 - ongoing
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  university: Vienna University of Technology
+  time: 2017 - 2021
+  details: "Focus: Measurement engineering<br>
+            Master's thesis: Machine Learning assisted Beam Commissioning for
+            the MedAustron Accelerator Complex"
 - education:
   degree: BSc in Electrical Engineering and Information Technology
-  university: Technical University of Vienna
+  university: Vienna University of Technology
   time: 2005 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "1st Bachelor thesis: Ball On Wheel<br>
+            Modeling and simulation of a ball balancing on a wheel.<br>
+            Design, simulation and implementation of a control loop.<br>
+            <br>
+            2nd Bachelor thesis: Adjustable Laser Source<br>
+            Design and implementation of an embedded system for measurement
+            and control of laser diodes (power, waveform, temperature) for a
+            fiber optics research project."

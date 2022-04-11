@@ -2,14 +2,17 @@
   name: LabVIEW
   level: 98%
 - skill:
-  name: C
-  level: 90%
-- skill:
   name: Python
-  level: 80%
+  level: 90%
 - skill:
   name: Software Engineering
   level: 90%
 - skill:
+  name: Machine Learning
+  level: 90%
+- skill:
   name: Data Analysis
+  level: 85%
+- skill:
+  name: C
   level: 80%

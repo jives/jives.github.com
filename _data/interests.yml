@@ -1,8 +1,14 @@
 - interest:
-  item: Cycling/Mountain Biking
+  item: Cycling/Mountain Biking/Running
+  link:
+- interest:
+  item: Mountaineering
   link:
 - interest:
   item: Scuba Diving
+  link:
+- interest:
+  item: Baking
   link:
 - interest:
   item: Electronics
