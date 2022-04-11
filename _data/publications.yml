@@ -1,32 +1,32 @@
 # intro: "Coming soon."
 publications:
   - thesis:
-    title: Machine Learning assisted Beam Commissioning for the MedAustron 
-    Accelerator Complex
+    title: "Machine Learning assisted Beam Commissioning for the MedAustron 
+    Accelerator Complex"
     authors: Anton Kerschbaum-Gruber
     conference: Master's thesis, 2021
   - paper:
-    title: Development and Implementation of a new Emittance Analysis
-    Application for the MedAustron Injector Complex
+    title: "Development and Implementation of a new Emittance Analysis
+    Application for the MedAustron Injector Complex"
     authors: Anton Kerschbaum
     conference: TUW project paper (unpublished), 2018
   - paper:
     title: Integration of beam diagnostics devices for a therapy accelerator
-    authors: Tuma, Samo, Joze Dedič, Anton Kerschbaum, Matej Klun,
-    Fadmar Osmić, Matjaz Repovž, Jose Sanchez Arias, and Luka Šepetavc
-    conference: 5th Int. Particle Accelerator Conf. (IPAC'14), Dresden,
-    Germany, June 15-20, 2014
+    authors: "Tuma, Samo, Joze Dedič, Anton Kerschbaum, Matej Klun,
+    Fadmar Osmić, Matjaz Repovž, Jose Sanchez Arias, and Luka Šepetavc"
+    conference: "5th Int. Particle Accelerator Conf. (IPAC'14), Dresden,
+    Germany, June 15-20, 2014"
   - paper:
-    title: Profile grid monitor and first measurement results at the
-    Medaustron accelerator
-    authors: Repovz, M., F. Osmic, G. Burtin, A. Gyorgy, S. Schwarz,
-    and A. Kerschbaum
-    year: 2nd International Beam Instrumentation Conference, Oxford, UK,
-    Sep 16-19 Sep, 2013
+    title: "Profile grid monitor and first measurement results at the
+    Medaustron accelerator"
+    authors: "Repovz, M., F. Osmic, G. Burtin, A. Gyorgy, S. Schwarz,
+    and A. Kerschbaum"
+    year: "2nd International Beam Instrumentation Conference, Oxford, UK,
+    Sep 16-19 Sep, 2013"
   - paper:
     title: "Overview of the Beam diagnostics in the MedAustron Accelerator:
     Design choices and test Beam commissioning"
-    authors: F Osmic, M Repovz, A Gyorgy, M Feurstein, A Kerschbaum,
-    S Schwarz, G Burtin
-    conference: 3rd International Particle Accelerator Conference,
-    New Orleans, LA, USA, May 20-25, 2012
+    authors: "F Osmic, M Repovz, A Gyorgy, M Feurstein, A Kerschbaum,
+    S Schwarz, G Burtin"
+    conference: "3rd International Particle Accelerator Conference,
+    New Orleans, LA, USA, May 20-25, 2012"
