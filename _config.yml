@@ -15,7 +15,7 @@ style: styles-2
 
 #Profile information
 name: Anton Kerschbaum-Gruber
-tagline: Software &amp; Data Engineer
+tagline: Software &amp; DAQ Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Coming soon.'
 
