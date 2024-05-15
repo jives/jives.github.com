@@ -5,14 +5,26 @@
   name: Python
   level: 90%
 - skill:
-  name: Software Engineering
+  name: C
+  level: 85%
+- skill:
+  name: Data Acquisition
+  level: 95%
+- skill:
+  name: Data Analysis
   level: 90%
 - skill:
   name: Machine Learning
+  level: 80%
+- skill:
+  name: Systems Design and Architecture
   level: 90%
 - skill:
-  name: Data Analysis
-  level: 85%
+  name: Software Engineering
+  level: 90%
 - skill:
-  name: C
+  name: Requirement Engineering
   level: 80%
+- skill:
+  name: Project Management
+  level: 75%
